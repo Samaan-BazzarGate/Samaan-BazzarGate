@@ -47,7 +47,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Samaan Shaaban" height="30" width="40" /></a>
   <a href="https://wa.me/+201220091719" target="blank"><img align="center"
-      src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg"
+      src="[https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg](https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg)"
       alt="Send Me WhatsApp Message " /></a>
  
 </p>
