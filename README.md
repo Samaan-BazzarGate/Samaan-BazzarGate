@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samaan-BazzarGate&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github.com/Samaan-BazzarGate/images/blob/main/animation_500_kxa883sd.gif" alt="Profile Views" />
 </p>
 
 ---
